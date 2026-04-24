@@ -1,1 +1,2 @@
 user can view data
+user can delete post
